@@ -29,7 +29,7 @@ Le projet est organisé comme suit :
 
 1.  **Clonez le dépôt** :
     ```bash
-    git clone <URL_DU_DEPOT>
+    git clone git@github.com:LEGBEDJE/Prediction-bitcoin.git
     cd predictionbitcoin
     ```
 
